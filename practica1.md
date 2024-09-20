@@ -9,7 +9,7 @@ El objetivo de esta tarea es que aprenda a crear un repositorio en GitHub y subi
    - Si aún no tiene una cuenta en GitHub, ve a [GitHub](https://github.com/) y crea una cuenta.
    
 2. **Crear un repositorio público en GitHub:**
-   - Inicia sesión en GitHub y crea un nuevo repositorio público con el nombre **MiProyectoMVC** o uno de su preferencia. Asegúrese de no seleccionar ninguna plantilla.
+   - Inicia sesión en GitHub y crea un nuevo repositorio público con el nombre **MiProyectoPy** o uno de su preferencia. Asegúrese de no seleccionar ninguna plantilla.
 
 3. **Configurar Git y Visual Studio Code:**
    - Si no lo tiene instalado, descarga e instala [Git](https://git-scm.com/) en su computadora.
@@ -36,7 +36,7 @@ El objetivo de esta tarea es que aprenda a crear un repositorio en GitHub y subi
    - Confirme todos los archivos del proyecto en Git (Commit) y luego realiza un push para subir los archivos al repositorio remoto en GitHub.
    
 6. **Verificar la subida del proyecto:**
-   - Asegúrese de que todos los archivos de su proyecto MVC se hayan subido correctamente a su repositorio en GitHub.
+   - Asegúrese de que todos los archivos de su proyecto se hayan subido correctamente a su repositorio en GitHub.
 
 ## Entregable:
 - El enlace al repositorio público en GitHub que contenga tu proyecto. Asegúrese de que el repositorio sea público para que pueda ser revisado.
